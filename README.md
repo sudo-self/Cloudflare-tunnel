@@ -37,7 +37,8 @@ cloudflared tunnel route dns <UUID or NAME> <hostname>
 
 ### route network 
 cloudflared tunnel route ip add <IP/CIDR> <UUID or NAME>
-<img width="632" alt="Screenshot 2023-08-24 at 12 32 40 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/726bc02a-0693-4555-ba7a-cf60bfbff37f">
+<img width="1053" alt="Screenshot 2023-08-24 at 12 39 14 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/b815c9a4-ba58-4645-9b05-879f3aad0eb8">
+
 
 
 ### confirm route
