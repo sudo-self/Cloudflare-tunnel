@@ -2,7 +2,9 @@
 ## cloudflared tunnel --config /Users/admin/.cloudflared/config.yml run 
 
 <img width="1225" alt="Screenshot 2023-08-24 at 12 27 23 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/3ed98b03-891b-4bcd-8a34-72cc14a8ec39">
-<img width="1139" alt="Screenshot 2023-08-24 at 12 44 16 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/001f6759-2473-4363-bb2b-89a6017e7ffd">
+
+
+<img width="1139" alt="Screenshot 2023-08-24 at 12 44 16 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/8c29e469-2ab4-4eb3-b0f6-9c117092dda2">
 
 
 ### brew install cloudflare/cloudflare/cloudflaredcloudflared
