@@ -1,4 +1,5 @@
-# CF-tunnel
+# CF-tunnel  cloudflared tunnel --config /Users/admin/.cloudflared/config.yml run  
+
 ### brew install cloudflare/cloudflare/cloudflaredcloudflared
 ### cloudflared tunnel login 
 this creates cert.pem
