@@ -2,6 +2,7 @@
 ## cloudflared tunnel --config /Users/admin/.cloudflared/config.yml run 
 
 <img width="1225" alt="Screenshot 2023-08-24 at 12 27 23 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/3ed98b03-891b-4bcd-8a34-72cc14a8ec39">
+<img width="1139" alt="Screenshot 2023-08-24 at 12 44 16 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/001f6759-2473-4363-bb2b-89a6017e7ffd">
 
 
 ### brew install cloudflare/cloudflare/cloudflaredcloudflared
@@ -34,12 +35,7 @@ confirm config file
 
 ### route traffic
 cloudflared tunnel route dns <UUID or NAME> <hostname>
-
-### route network 
-cloudflared tunnel route ip add <IP/CIDR> <UUID or NAME>
 <img width="1053" alt="Screenshot 2023-08-24 at 12 39 14 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/b815c9a4-ba58-4645-9b05-879f3aad0eb8">
-
-
 
 ### confirm route
 cloudflared tunnel route ip show
