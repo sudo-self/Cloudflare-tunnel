@@ -1,5 +1,8 @@
 # CF-tunnel  
-## cloudflared tunnel --config /Users/admin/.cloudflared/config.yml run  
+## cloudflared tunnel --config /Users/admin/.cloudflared/config.yml run 
+
+<img width="1225" alt="Screenshot 2023-08-24 at 12 27 23 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/3ed98b03-891b-4bcd-8a34-72cc14a8ec39">
+
 
 ### brew install cloudflare/cloudflare/cloudflaredcloudflared
 ### cloudflared tunnel login 
