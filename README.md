@@ -16,9 +16,6 @@ this genertates a subdomain .cfargotunnel.com.
 ### cloudflared tunnel list
 ### x3 files located here root/.cloudflared
 <img width="632" alt="Screenshot 2023-08-24 at 12 32 40 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/f1e92ab4-6523-4c7d-bf24-e6ce5f6c7d4e">
-
-
-
 ## Config file
 
 ### APP
@@ -50,3 +47,7 @@ cloudflared tunnel --config /path/your-config-file.yaml run
 
 ### check tunnel status
 cloudflared tunnel info <UUID or NAME>
+<img width="1139" alt="Screenshot 2023-08-24 at 12 44 16 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/287c65cf-87c1-4b9a-b2e7-9a91143d5497">
+
+
+
