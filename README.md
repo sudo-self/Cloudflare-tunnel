@@ -30,10 +30,10 @@ cloudflared tunnel route dns <UUID or NAME> <hostname>
 ### route network 
 cloudflared tunnel route ip add <IP/CIDR> <UUID or NAME>
 
-### Confirm route
+### confirm route
 cloudflared tunnel route ip show
 
-### Run the tunnel
+### run the tunnel
 cloudflared tunnel run <UUID or NAME>
 
 ### Pont tunnel to config file 
