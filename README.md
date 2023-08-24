@@ -11,7 +11,10 @@ this creates cert.pem
 this generates a credentials file
 this genertates a subdomain .cfargotunnel.com.
 ### cloudflared tunnel list
-x3 files located here root/.cloudflared
+### x3 files located here root/.cloudflared
+<img width="632" alt="Screenshot 2023-08-24 at 12 32 40 AM" src="https://github.com/sudo-self/CF-tunnel/assets/119916323/f1e92ab4-6523-4c7d-bf24-e6ce5f6c7d4e">
+
+
 
 ## Config file
 
